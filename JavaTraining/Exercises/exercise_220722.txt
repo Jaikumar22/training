@@ -1,0 +1,39 @@
+
+Probelm :
+
+A school class contains two persons namely (jaiPerson and arunperson) and a school name.
+Populate the variables/attributes of the Person (name, age, address, mobile) and print all the attributes.
+Create a MainClass which has the main method. coding needs to be done in Mainclass.
+
+Class person is defined below
+public class Person {
+
+		String name;
+		
+		int age;
+		
+		String address;
+		
+		int mobile;
+}
+
+
+public class School {
+	
+	Person jaiPerson;
+	
+	Person arunPerson;
+	
+	String nameofSchool;
+	
+	
+}
+
+
+
+Exceped output
+
+Jain, 22, abc, 987654 // (person1)
+arun, 21, xyz, 5689    // (person2)
+
+did you understand the problem. Please solve this problem
