@@ -1,6 +1,7 @@
 package com.enoch.oop;
 
 public class MainClass {
+	String name;
 	public static void main(String[] args) {
 		Person jaiPerson = new Person();
 		jaiPerson.name="Jai";
@@ -14,8 +15,16 @@ public class MainClass {
 		arunperson.address="xyz";
 		arunperson.mobile=789123;
 		System.out.println(arunperson.name + " " + arunperson.age + " " + arunperson.address + " " + arunperson.mobile);
+		
+		
+		
+		}{
+			School schoolname = new School();
+			schoolname.nameofSchool="GHK School";
+			System.out.println(schoolname.nameofSchool);
+		}
 		}
 	}
-}
+
 
 
