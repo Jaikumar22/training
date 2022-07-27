@@ -1,0 +1,19 @@
+
+Details for the following fruits/vegetables are being noted
+
+Mango details price, color, taste, Organic, type:import/export.
+
+Apple details price, color, season(month of year), import/export.
+
+Drum stick details price, color, season, minWeight
+
+Carrot details price, color, nutrients, fiber or not.
+
+Write a program to print the price of each of given item
+and print its details
+
+Example input: Mango
+Expected Output : Price:35,color:Yellow,taste:sweet,Organic:true,type:Import
+
+Example input : ALL
+Then print all the four details (mango, apple,drumstick, carrot) 
